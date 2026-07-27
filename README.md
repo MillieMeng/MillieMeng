@@ -25,7 +25,7 @@ Curious about why people do what they do — and what the data says about it.
 
 ---
 
-### 🎯 What I Work On
+### 🧠 What I Work On
 
 - **Behavioral research** — reaction times, cognitive interference, attachment & mental health
 - **Data wrangling** — cleaning, reshaping, joining, summarizing
@@ -38,14 +38,14 @@ Curious about why people do what they do — and what the data says about it.
 
 | | Project | Tools |
 |-|---------|-------|
-| 🎯 | [Eriksen Flanker Task — Cognitive Control](https://github.com/MillieMeng/cognitive-control-flanker) | R · tidyverse · ggplot2 · RMarkdown |
+| ⚡ | [Eriksen Flanker Task — Cognitive Control](https://github.com/MillieMeng/cognitive-control-flanker) | R · tidyverse · ggplot2 · RMarkdown |
 | 🌸 | [Attachment, Self-Compassion & Emotional Distress](https://github.com/MillieMeng/attachment-self-compassion-study) | R · regression · ANOVA · t-test |
 | 💻 | [Python Portfolio](https://github.com/MillieMeng/python-portfolio) | Python · OOP · file I/O · data structures |
 | 📊 | [SQL Portfolio](https://github.com/MillieMeng/sql-portfolio) | SQL · BigQuery · E-commerce analysis |
 
 ---
 
-### ⚡ Skills
+### 🛠️ Skills
 
 <div align="center">
 
