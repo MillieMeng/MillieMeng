@@ -41,15 +41,6 @@ I use R and Python to turn messy datasets into something that actually makes sen
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MillieMeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MillieMeng)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MillieMeng&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MillieMeng)
-
-</div>
-
----
 
 <div align="center">
 📍 New York University · Psychology B.A. · Class of 2027
