@@ -3,13 +3,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&speed=60&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Millie+%F0%9F%91%8B;Psychology+%40+NYU;Data+%7C+Research+%7C+Storytelling" alt="Typing SVG" />
 
 **Psychology student at NYU who got hooked on data.**  
-I use R and Python to turn messy datasets into something that actually makes sense.
+I use R and Python to turn messy datasets into something that actually makes sense.  
+Curious about why people do what they do — and what the data says about it.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Millie%20Meng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milliemeng)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-zihanmeng9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zihanmeng9@gmail.com)
 
 </div>
 
 ---
 
-### 🧠 What I work on
+### ✨ About Me
+
+- 🎓 &nbsp;Psychology B.A. at **New York University**, Class of 2027
+- 🔬 &nbsp;Interested in cognitive science, mental health research, and behavioral data
+- 📊 &nbsp;Love turning raw survey and experiment data into clean, reproducible analyses
+- 🌱 &nbsp;Currently exploring data analytics and research methods
+
+---
+
+### 🎯 What I Work On
 
 - **Behavioral research** — reaction times, cognitive interference, attachment & mental health
 - **Data wrangling** — cleaning, reshaping, joining, summarizing
@@ -18,7 +34,7 @@ I use R and Python to turn messy datasets into something that actually makes sen
 
 ---
 
-### 📂 Projects
+### 💼 Projects
 
 | | Project | Tools |
 |-|---------|-------|
@@ -29,7 +45,7 @@ I use R and Python to turn messy datasets into something that actually makes sen
 
 ---
 
-### 🛠 Skills
+### ⚡ Skills
 
 <div align="center">
 
