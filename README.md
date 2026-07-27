@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Millie+%F0%9F%91%8B;Psychology+%40+NYU;Data+%7C+Research+%7C+Storytelling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&speed=60&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Millie+%F0%9F%91%8B;Psychology+%40+NYU;Data+%7C+Research+%7C+Storytelling" alt="Typing SVG" />
 
 **Psychology student at NYU who got hooked on data.**  
 I use R and Python to turn messy datasets into something that actually makes sense.
