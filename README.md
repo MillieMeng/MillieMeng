@@ -1,47 +1,56 @@
-# Hi, I'm Millie 👋
+<div align="center">
 
-**Psychology B.A. · New York University · Class of 2027**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Millie+%F0%9F%91%8B;Psychology+%40+NYU;Data+%7C+Research+%7C+Storytelling" alt="Typing SVG" />
 
-I use R and Python to analyze behavioral and survey data — building clean, reproducible pipelines from raw data to interpretable results.
+**Psychology student at NYU who got hooked on data.**  
+I use R and Python to turn messy datasets into something that actually makes sense.
 
----
-
-## Research & Data Projects (R)
-
-### [Behavioral Data Analysis — Eriksen Flanker Task](https://github.com/MillieMeng/cognitive-control-flanker)
-End-to-end R pipeline on 8,000+ behavioral observations from a cognitive interference experiment.
-- Data cleaning, long-to-wide reshaping, visualization, regression modeling
-- `tidyverse` · `ggplot2` · `dplyr` · `tidyr` · `RMarkdown`
-
-### [Attachment Styles, Self-Compassion & Emotional Distress](https://github.com/MillieMeng/attachment-self-compassion-study)
-Archival quantitative analysis of 473 participants examining how attachment styles predict depression and anxiety.
-- Multiple linear regression · Two-way ANOVA · Independent samples *t*-test · Assumption testing
-- `R` · `tidyverse` · `ggplot2` · `car` · `readxl`
+</div>
 
 ---
 
-## Programming Projects (Python)
+### 🧠 What I work on
 
-### [Python Portfolio](https://github.com/MillieMeng/python-portfolio)
-A collection of Python projects covering core programming concepts.
-
-| Project | Concepts |
-|---------|----------|
-| [Smartphone Manager](https://github.com/MillieMeng/python-portfolio/tree/main/01_smartphone_manager) | OOP, dictionaries, input validation |
-| [Pokemon Center Database](https://github.com/MillieMeng/python-portfolio/tree/main/02_pokemon_center) | File I/O, CRUD, nested dicts |
-| [Email Service](https://github.com/MillieMeng/python-portfolio/tree/main/03_email_service) | Authentication, datetime, file storage |
-| [Math Quiz Machine](https://github.com/MillieMeng/python-portfolio/tree/main/04_math_quiz) | Classes, randomness, stats tracking |
-| [Turtle Bar Chart](https://github.com/MillieMeng/python-portfolio/tree/main/06_bar_chart) | Graphics, proportional scaling |
+- **Behavioral research** — reaction times, cognitive interference, attachment & mental health
+- **Data wrangling** — cleaning, reshaping, joining, summarizing
+- **Statistical analysis** — regression, ANOVA, t-tests, assumption testing  
+- **Visualization** — ggplot2, making charts that tell a story
 
 ---
 
-## Skills
+### 📂 Projects
 
-**Languages:** R · Python  
-**R packages:** tidyverse · ggplot2 · dplyr · tidyr · car · readxl · RMarkdown  
-**Statistics:** Linear regression · ANOVA · t-tests · LOESS · Assumption testing  
-**Other:** Git · GitHub · Data cleaning · Data visualization · Reproducible research
+| | Project | Tools |
+|-|---------|-------|
+| 🧪 | [Eriksen Flanker Task — Cognitive Control](https://github.com/MillieMeng/cognitive-control-flanker) | R · tidyverse · ggplot2 · RMarkdown |
+| 💙 | [Attachment, Self-Compassion & Emotional Distress](https://github.com/MillieMeng/attachment-self-compassion-study) | R · regression · ANOVA · t-test |
+| 🐍 | [Python Portfolio](https://github.com/MillieMeng/python-portfolio) | Python · OOP · file I/O · data structures |
+| 🗄️ | [SQL Portfolio](https://github.com/MillieMeng/sql-portfolio) | SQL |
 
 ---
 
-*New York University · Psychology B.A. · zihanmeng9@gmail.com*
+### 🛠 Skills
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-FC6E51?style=for-the-badge&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/RMarkdown-blue?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MillieMeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MillieMeng)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MillieMeng&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MillieMeng)
+
+</div>
+
+---
+
+<div align="center">
+📍 New York University · Psychology B.A. · Class of 2027
+</div>
