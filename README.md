@@ -1,62 +1,89 @@
+<div align="center">
+
 # Millie Meng
 
-**Data Analyst** &nbsp;·&nbsp; New York University &nbsp;&nbsp; <a href="mailto:zihanmeng9@gmail.com"><img src="https://img.shields.io/badge/zihanmeng9@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> &nbsp; <a href="https://linkedin.com/in/milliemeng"><img src="https://img.shields.io/badge/LinkedIn-milliemeng-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+**Data Analyst · NYU Psychology · New York**
+
+*From behavioral research to business decisions — I analyze why people do what they do, then quantify it.*
+
+[![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://github.com/MillieMeng/sql-portfolio)
+[![R](https://img.shields.io/badge/R-tidyverse%20%7C%20ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/MillieMeng/r-portfolio)
+[![Excel](https://img.shields.io/badge/Excel-Pivot%20%7C%20XLOOKUP-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/MillieMeng)
+[![SPSS](https://img.shields.io/badge/SPSS-EFA%20%7C%20ANOVA-052FAD?style=flat-square)](https://github.com/MillieMeng)
+
+</div>
 
 ---
 
-SQL and R analyst with experience in behavioral research, clinical trial data, and customer analytics. Currently contributing to clinical data pipelines at NYSPI and locomotion research at NYU Infant Action Lab.
+## About
 
-`SQL` `BigQuery` `R` `tidyverse` `ggplot2` `EFA` `regression` `cohort analysis` `RMarkdown`
+Psychology student at NYU (GPA 3.78) with hands-on experience across three domains: **clinical data** (NYSPI), **behavioral research** (NYU Infant Action Lab), and **business analytics** (e-commerce, customer segmentation). I bridge qualitative insight and quantitative rigor — comfortable working from raw survey data to regression output to stakeholder report.
 
----
-
-### Projects
-
-**[SQL Portfolio — E-Commerce Revenue & User Analysis](https://github.com/MillieMeng/sql-portfolio)** &nbsp; `SQL` `BigQuery` `window functions`
-
-Analyzed 100k+ orders and 27k+ users in BigQuery. Cohort retention, monthly GMV, RFM segmentation. Identified a **25% order non-conversion rate**; built Champions, Loyal, and At Risk customer segments.
-
-**[Cognitive Control — Automated Behavioral Data Pipeline](https://github.com/MillieMeng/r-portfolio/tree/main/01_cognitive_control)** &nbsp; `R` `ggplot2` `LOESS`
-
-Reproducible pipeline for 8,000+ trial-level observations across Flanker conditions. Automated per-participant visualizations; modeled response-time trends; documented in RMarkdown.
-
-**[Predictive Modeling — Attachment & Mental Health](https://github.com/MillieMeng/r-portfolio/tree/main/02_attachment_mental_health)** &nbsp; `R` `regression` `RMarkdown`
-
-Multiple regression model (R² = .31) on N = 473. Full assumption testing — normality, homoscedasticity, multicollinearity, outliers — with effect sizes.
+**Narrative:** `Psychology` → `Behavioral Research` → `Statistical Analysis` → `SQL & Business Analytics` → `Decision Support`
 
 ---
 
-### Experience
+## Featured Projects
 
-<sub>JUL 2026 – PRESENT</sub>
-**Clinical Research Volunteer** · NYSPI — Depression Evaluation Service
-Medidata Rave ELC data entry across 10+ modules; reconcile protocol timepoints and review edit checks. CITI-certified in GCP and human-subjects research.
+### 📊 [SQL Portfolio — E-Commerce Revenue & User Analysis](https://github.com/MillieMeng/sql-portfolio)
+`SQL` `BigQuery` `Window Functions` `Cohort Retention` `RFM Segmentation`
 
-<sub>JUN 2026 – PRESENT</sub>
-**Research Assistant** · NYU Infant Action Lab
-Datavyu behavioral coding of multi-angle locomotion trials; scripted reliability checks — **99% timestamp similarity**, **93% session agreement**.
+**Business Question:** Where are we losing revenue, and which customers are worth retaining?
 
-<sub>JUL 2025 – MAY 2026</sub>
-**Independent Data Analyst** · Social Cognition Project
-Cleaned mixed-methods data from **119 survey respondents** and **19 interviews**; applied EFA, ANOVA, and regression in R; delivered structured findings report to a faculty stakeholder.
+Analyzed 100k+ orders and 27k+ users in BigQuery. Identified a **25% order non-conversion rate** as the primary revenue leak. Built cohort retention curves, monthly GMV trends, and RFM segmentation to classify customers into Champions, Loyal, and At-Risk tiers — each with distinct retention implications.
 
 ---
 
-### Technical Skills
+### 🧠 [Social Cognition — Mixed-Methods Analysis of Behavioral Recovery](https://github.com/MillieMeng/relationship-dissolution-analysis)
+`R` `EFA` `ANOVA` `Regression` `Mixed Methods` `Survey + Interview`
 
-<sub>SQL (BIGQUERY)</sub> &nbsp; CTEs · window functions · CASE WHEN · DATE_DIFF/TRUNC · cohort retention · RFM segmentation
-<sub>R</sub> &nbsp; tidyverse · dplyr · ggplot2 · RMarkdown · LOESS regression · ANOVA · EFA
-<sub>PYTHON</sub> &nbsp; data structures · file I/O · exception handling
-<sub>TOOLS</sub> &nbsp; Excel · GitHub · SPSS · Datavyu · Medidata Rave
+**Business Question:** What predicts psychological recovery after social disruption, and how do qualitative signals map onto quantitative outcomes?
+
+Cleaned and integrated data from **119 survey respondents + 19 interviews**. Applied EFA to surface latent factor structure; built multiple regression model (R² = .31, N = 473) with full assumption testing. Delivered structured findings report to faculty stakeholder — mirroring a research-to-recommendation workflow.
+
+*This project demonstrates something most analyst portfolios lack: the ability to make sense of messy, mixed-format human data.*
 
 ---
 
-### Education
+### 📈 [R Portfolio — Behavioral Data Pipeline & Predictive Modeling](https://github.com/MillieMeng/r-portfolio)
+`R` `ggplot2` `LOESS` `RMarkdown` `Regression` `EFA`
 
-<sub>SEP 2025 – PRESENT</sub>
-**New York University**, College of Arts & Science &nbsp;·&nbsp; B.A. Psychology &nbsp;·&nbsp; GPA 3.78 &nbsp;·&nbsp; Expected May 2027
-Coursework: Statistics & Research Methods · Data Analysis in R · Intro to CS
+**Business Question:** How do performance and behavioral patterns shift under varying cognitive load conditions?
 
-<sub>AUG 2023 – MAY 2025</sub>
-**Pennsylvania State University**, University Park &nbsp;·&nbsp; Psychology &nbsp;·&nbsp; GPA 3.98
-President Walker Award (Top 1%) · Dean's List
+Reproducible pipeline for **8,000+ trial-level observations** across Flanker conditions. Automated per-participant visualizations; modeled response-time trends with LOESS smoothing. Documented end-to-end in RMarkdown for stakeholder review.
+
+---
+
+## Experience
+
+| Period | Role |
+|---|---|
+| Jul 2026 – Present | Clinical Research Volunteer · **NYSPI** — Depression Evaluation Service |
+| Jun 2026 – Present | Research Assistant · **NYU Infant Action Lab** |
+| Jul 2025 – May 2026 | Independent Data Analyst · **Social Cognition Project** |
+
+**NYSPI:** ELC data entry across 10+ modules in Medidata Rave; reconcile protocol timepoints and review edit checks. CITI-certified (GCP + Human Subjects Research).
+
+**NYU Infant Action Lab:** Behavioral coding of multi-angle locomotion trials in Datavyu; scripted reliability checks — 99% timestamp similarity, 93% session agreement.
+
+**Social Cognition Project:** End-to-end analyst role — data collection, cleaning, EFA, regression, and stakeholder reporting for a faculty-led research team.
+
+---
+
+## Technical Skills
+
+| Domain | Tools |
+|---|---|
+| **SQL** | BigQuery · CTEs · Window Functions · CASE WHEN · Cohort Retention · RFM · DATE functions |
+| **R** | tidyverse · dplyr · ggplot2 · RMarkdown · LOESS · Regression · ANOVA · EFA |
+| **Excel** | Pivot Tables · XLOOKUP · INDEX/MATCH · SUMIFS · Charts |
+| **Research Tools** | SPSS · Datavyu · Medidata Rave · GitHub |
+
+---
+
+## Education
+
+🎓 **New York University**, College of Arts & Science · B.A. Psychology · GPA **3.78** · Expected May 2027
+*Coursework: Statistics & Research Methods · Data Analysis in R · Intro to CS*
+
+🎓 **Pennsylvania State University** · Psychology · GPA **3.98** · President Walker Award (Top 1%) · Dean's List
