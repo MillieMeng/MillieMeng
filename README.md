@@ -19,7 +19,7 @@
 
 Psychology student at NYU (GPA 3.78) with hands-on experience across three domains: **clinical data** (NYSPI), **behavioral research** (NYU Infant Action Lab), and **business analytics** (e-commerce, customer segmentation). I bridge qualitative insight and quantitative rigor — comfortable working from raw survey data to regression output to stakeholder report.
 
-**Narrative:** `Psychology` → `Behavioral Research` → `Statistical Analysis` → `SQL & Business Analytics` → `Decision Support`
+My work sits at the intersection of behavioral research, statistical analysis, and decision support.
 
 ---
 
@@ -30,7 +30,7 @@ Psychology student at NYU (GPA 3.78) with hands-on experience across three domai
 
 **Business Question:** Where are we losing revenue, and which customers are worth retaining?
 
-Analyzed 100k+ orders and 27k+ users in BigQuery. Identified a **25% order non-conversion rate** as the primary revenue leak. Built cohort retention curves, monthly GMV trends, and RFM segmentation to classify customers into Champions, Loyal, and At-Risk tiers — each with distinct retention implications.
+Analyzed 100k+ orders and 27k+ users in BigQuery. Found that approximately **25% of orders were cancelled or returned**, representing substantial lost or reversed revenue. Built cohort retention curves, monthly GMV trends, and RFM segmentation to classify customers into Champions, Loyal, and At-Risk tiers — each with distinct retention implications.
 
 ---
 
@@ -39,9 +39,7 @@ Analyzed 100k+ orders and 27k+ users in BigQuery. Identified a **25% order non-c
 
 **Business Question:** What predicts psychological recovery after social disruption, and how do qualitative signals map onto quantitative outcomes?
 
-Cleaned and integrated data from **119 survey respondents + 19 interviews**. Applied EFA to surface latent factor structure; built multiple regression model (R² = .31, N = 473) with full assumption testing. Delivered structured findings report to faculty stakeholder — mirroring a research-to-recommendation workflow.
-
-*This project demonstrates something most analyst portfolios lack: the ability to make sense of messy, mixed-format human data.*
+Analyzed survey data from **119 participants and 19 qualitative interviews**. Evaluated scale reliability and factorability (Cronbach's α = .891; KMO = .812), examined patterns in rumination, self-worth doubt, trust erosion, and coping, and built a privacy-conscious reproducible workflow using simulated data. Delivered structured findings report to faculty stakeholder.
 
 ---
 
@@ -76,7 +74,7 @@ Reproducible pipeline for **8,000+ trial-level observations** across Flanker con
 |---|---|
 | **SQL** | BigQuery · CTEs · Window Functions · CASE WHEN · Cohort Retention · RFM · DATE functions |
 | **R** | tidyverse · dplyr · ggplot2 · RMarkdown · LOESS · Regression · ANOVA · EFA |
-| **Excel** | Pivot Tables · XLOOKUP · INDEX/MATCH · SUMIFS · Charts |
+| **Excel** | Pivot Tables · XLOOKUP · SUMIFS · Charts |
 | **Research Tools** | SPSS · Datavyu · Medidata Rave · GitHub |
 
 ---
