@@ -2,9 +2,9 @@
 
 # Millie Meng
 
-**Data Analyst · NYU Psychology · New York**
+**Data Analyst · NYU · New York**
 
-*From behavioral research to business decisions — I analyze why people do what they do, then quantify it.*
+*Turning messy human and business data into reliable evidence and useful decisions.*
 
 [![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://github.com/MillieMeng/sql-portfolio)
 [![R](https://img.shields.io/badge/R-tidyverse%20%7C%20ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/MillieMeng/r-portfolio)
@@ -17,9 +17,9 @@
 
 ## About
 
-Psychology student at NYU (GPA 3.78) with hands-on experience across three domains: **clinical data** (NYSPI), **behavioral research** (NYU Infant Action Lab), and **business analytics** (e-commerce, customer segmentation). I bridge qualitative insight and quantitative rigor — comfortable working from raw survey data to regression output to stakeholder report.
+Data analyst with a psychology background at NYU (GPA 3.78). I work with behavioral and business data — transaction records, survey responses, observational coding — and turn them into findings that hold up: reliable metrics, clear patterns, decisions that can be acted on.
 
-My work sits at the intersection of behavioral research, statistical analysis, and decision support.
+Current work: SQL-based business analysis (e-commerce revenue, customer segmentation, cohort retention) and behavioral data pipelines in R and SPSS. Comfortable end-to-end — from raw data to stakeholder report.
 
 ---
 
@@ -34,19 +34,19 @@ Analyzed 100k+ orders and 27k+ users in BigQuery. Found that approximately **25%
 
 ---
 
-### 🧠 [Social Cognition — Mixed-Methods Analysis of Behavioral Recovery](https://github.com/MillieMeng/relationship-dissolution-analysis)
+### 🧠 [Social Cognition — Mixed-Methods Analysis of Psychological Recovery](https://github.com/MillieMeng/relationship-dissolution-analysis)
 `R` `EFA` `ANOVA` `Regression` `Mixed Methods` `Survey + Interview`
 
-**Business Question:** What predicts psychological recovery after social disruption, and how do qualitative signals map onto quantitative outcomes?
+**Research Question:** What predicts psychological adjustment after social disruption, and how do qualitative signals map onto quantitative outcomes?
 
-Analyzed survey data from **119 participants and 19 qualitative interviews**. Evaluated scale reliability and factorability (Cronbach's α = .891; KMO = .812), examined patterns in rumination, self-worth doubt, trust erosion, and coping, and built a privacy-conscious reproducible workflow using simulated data. Delivered structured findings report to faculty stakeholder.
+Analyzed survey data from **119 participants** and **19 qualitative interviews**. Evaluated scale reliability (Cronbach's α = .891; KMO = .812), examined patterns across rumination, self-worth doubt, and coping, and built a reproducible workflow using simulated data for privacy. Delivered structured findings report to faculty stakeholder.
 
 ---
 
-### 📈 [R Portfolio — Behavioral Data Pipeline & Predictive Modeling](https://github.com/MillieMeng/r-portfolio)
+### 📈 [R Portfolio — Behavioral Data Pipeline & Analysis](https://github.com/MillieMeng/r-portfolio)
 `R` `ggplot2` `LOESS` `RMarkdown` `Regression` `EFA`
 
-**Business Question:** How do performance and behavioral patterns shift under varying cognitive load conditions?
+**Research Question:** How do performance and behavioral patterns shift under varying cognitive load conditions?
 
 Reproducible pipeline for **8,000+ trial-level observations** across Flanker conditions. Automated per-participant visualizations; modeled response-time trends with LOESS smoothing. Documented end-to-end in RMarkdown for stakeholder review.
 
@@ -56,8 +56,8 @@ Reproducible pipeline for **8,000+ trial-level observations** across Flanker con
 
 | Period | Role |
 |---|---|
-| Jul 2026 – Present | Clinical Research Volunteer · **NYSPI** — Depression Evaluation Service |
-| Jun 2026 – Present | Research Assistant · **NYU Infant Action Lab** |
+| May 2026 – Present | Clinical Research Volunteer · **NYSPI** — Depression Evaluation Service |
+| May 2026 – Present | Research Assistant · **NYU Infant Action Lab** |
 | Jul 2025 – May 2026 | Independent Data Analyst · **Social Cognition Project** |
 
 **NYSPI:** ELC data entry across 10+ modules in Medidata Rave; reconcile protocol timepoints and review edit checks. CITI-certified (GCP + Human Subjects Research).
