@@ -62,7 +62,7 @@ Reproducible pipeline for **8,000+ trial-level observations** across Flanker con
 
 **NYSPI:** ELC data entry across 10+ modules in Medidata Rave; reconcile protocol timepoints and review edit checks. CITI-certified (GCP + Human Subjects Research).
 
-**NYU Infant Action Lab:** Behavioral coding of multi-angle locomotion trials in Datavyu; scripted reliability checks — 99% timestamp similarity, 93% session agreement.
+**NYU Infant Action Lab:** Behavioral coding and reliability review for 21 sessions across five recording components in Datavyu; resolving timestamp, cell-count, and classification discrepancies — approximately 90% agreement across recent coding parts.
 
 **Social Cognition Project:** End-to-end analyst role — data collection, cleaning, EFA, regression, and stakeholder reporting for a faculty-led research team.
 
