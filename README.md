@@ -11,6 +11,8 @@ NYU Psychology senior (B.A., STEM-designated, GPA 3.69, Dean's List 2025–26), 
 
 - **sql-portfolio** — SQL analysis of 100k+ e-commerce orders in BigQuery: revenue trends, cohort retention, RFM customer segmentation
 - **relationship-dissolution-analysis** — Independent mixed-methods study of social rejection ("ghosting"): 119 survey respondents and 19 semi-structured interviews; EFA, ANOVA, and multiple regression in R. Code and documentation are public; all participant data is excluded.
+- **cognitive-control-flanker** — End-to-end R pipeline for 8,000+ trial-level Flanker task data: cleaning, LOESS trend modeling, automated participant-level plots
+- **attachment-self-compassion-study** — Predictive modeling of attachment and mental health (N=473) in R: multiple regression, ANOVA, full assumption checks, APA-style RMarkdown report
 - Coursework portfolios: **r-portfolio** (R) and **python-portfolio** (Python)
 
 ## Toolkit
